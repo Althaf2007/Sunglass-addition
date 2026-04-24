@@ -29,7 +29,7 @@ Whether you're a beginner exploring image processing or someone looking for a un
 2. Install the required libraries (`opencv-python`, `numpy`)
 3. Add your image to the project folder
 4. Run the Python script
-5. See your "cool" transformed image with sunglasses 😎
+5. See your "cool" transformed image with sunglasses 
 
 ## Program
 
