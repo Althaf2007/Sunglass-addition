@@ -89,10 +89,3 @@ A sunglasses image with a transparent background is placed on the eye region of 
 ## Result
 
 The sunglasses are successfully overlaid on the face image using masking and blending, producing a realistic output.
-
-
----
-
-## 📌 Conclusion
-
-This project demonstrates how basic image processing techniques like masking, ROI selection, and blending can be used to create simple augmented reality effects.
